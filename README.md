@@ -4,7 +4,7 @@ Crystalline phase discriminating neutron tomography using advanced reconstructio
 
 by
 
-Jakob S. Jørgensen, Evelina Ametova, Genoveva Burca, Gemma Fardell, Evangelos Papoutsellis, Edoardo Pasca, Kris Thielemans, Martin Turner, Ryan Warr, William R. B. Lionheart, and Philip J. Withers
+Evelina Ametova, Genoveva Burca, Suren Chilingaryan, Gemma Fardell, Jakob S Jørgensen, Evangelos Papoutsellis, Edoardo Pasca, Ryan Warr, Martin Turner, William R B Lionheart and Philip J Withers
 
 The paper is available here:
 
